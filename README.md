@@ -1,6 +1,6 @@
 # ElmbrunchCrash
 
-Steps to reproduce a crash of `Brunch` process during `Elm` compilation error:
+Steps to reproduce a [crash](https://github.com/madsflensted/elm-brunch/pull/33) of `Brunch` process during `Elm` compilation error:
 
 Build container:
 
